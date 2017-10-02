@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  background: #0072ff;
+}
+
+p {
+  margin: 0;
+  color: pink !important;
+}
+
+p.swag {
+  color: white !important;
+}
+
+div.swag span {
+  color: yellow;
+  font-size: 36px;
+  margin-top: 2rem;
+  display: block;
+}
